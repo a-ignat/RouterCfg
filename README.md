@@ -1,6 +1,6 @@
 # RouterCfg
 
-This is an SSH/Telnet client designed to connect to network devices and send commands.
+This is an SSH/Telnet client created in python and designed to connect to network devices and send commands.
 Devices are specified by user in a separate file and so do commands.
 The set of commands are sent to all devices.
 User must also provide username and password with full access to devices.
